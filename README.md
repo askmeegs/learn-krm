@@ -47,7 +47,8 @@ KRM = the Kubernetes Resource Model
 *   [Solution Guide - Safe Rollouts with Anthos Config Management - Google Cloud](https://cloud.google.com/solutions/safe-rollouts-with-anthos-config-management)
 *   [Solution Guide - Best practices for policy management with Anthos Config Management and GitLab](https://cloud.google.com/solutions/best-practices-for-policy-management-with-anthos-config-management) - Google Cloud 
 *   [Solution Guide - Validating apps against company policies in a CI pipeline ](https://cloud.google.com/anthos-config-management/docs/tutorials/app-policy-validation-ci-pipeline)- Google Cloud 
-*   [Solution Guide - Managing cloud infrastructure using kpt ](https://cloud.google.com/solutions/managing-cloud-infrastructure-using-kpt) - Google Cloud 
+*   [Solution Guide - Managing cloud infrastructure using kpt ](https://cloud.google.com/solutions/managing-cloud-infrastructure-using-kpt) - Google Cloud
+*   [Video - Using Source Code Management Patterns To Configure And Secure Your Kubernetes Clusters](https://jwp.io/s/Or4kct75) - Giovanni Galloro, Google
 
 
 ## 🌊 Deep Dives 
