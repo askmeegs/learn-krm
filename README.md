@@ -35,6 +35,7 @@ KRM = the Kubernetes Resource Model
 *   [OpenPolicyAgent](https://www.openpolicyagent.org/docs/latest/): “an open source, general-purpose policy engine that unifies policy enforcement across the stack.”  (see also: [Gatekeeper](https://open-policy-agent.github.io/gatekeeper/website/docs/)) 
 *   [PolicyController ](https://cloud.google.com/anthos-config-management/docs/concepts/policy-controller) (Google Cloud) - managed OPA Gatekeeper GKE Admission Controller (only allow compliant KRM into the cluster)
 *   [gcloud resource-config bulk-export](https://cloud.google.com/sdk/gcloud/reference/beta/resource-config/bulk-export) - export live Google Cloud object state to KRM files, for declarative management 
+*   [Crossplane](https://github.com/crossplane/crossplane) - Open-source Kubernetes add-on for administering multi-cloud resources with KRM. 
 
 ## 🛠 How-tos 
 
